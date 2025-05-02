@@ -1,0 +1,71 @@
+{
+    "profile": {
+        "name": "sunshine.jpeg",
+        "bio": "selling various needs, such as premium apps, follower boosters, and WhatsApp botz needs, etc.",
+        "image": "https://files.catbox.moe/prst3x.jpg"
+    },
+    "links": [
+        {
+            "title": "Whatsapp",
+            "url": "https://wa.me/6285175463174",
+            "icon": "fab fa-whatsapp"
+        },
+        {
+            "title": "Telegram",
+            "url": "https://t.me/sunsyete",
+            "icon": "fab fa-telegram"
+        },
+        {
+            "title": "Donate",
+            "url": "https://donasi.shinestore.my.id",
+            "icon": "fas fa-donate"
+        },
+        {
+            "title": "Website",
+            "url": "https://www.sunshop.my.id",
+            "icon": "fas fa-globe"
+        },
+        {
+            "title": "TikTok",
+            "url": "https://tiktok.com/@sunshine01442",
+            "icon": "fab fa-tiktok"
+        },
+        {
+            "title": "Pinterest",
+            "url": "https://pin.it/3SuSgqapB",
+            "icon": "fab fa-pinterest"
+        },
+        {
+            "title": "Grup Whatsapp",
+            "url": "https://github.com/Sunsyete",
+            "icon": "fa-solid fa-user-group"
+        },
+        {
+            "title": "Pricelist",
+            "url": "https://sun.shinestore.my.id",
+            "icon": "fas fa-globe"
+        }
+    ],
+    "music": {
+        "title": "Attached",
+        "artist": "Tenxi, Ananggana & Suisei",
+        "albumArt": "https://files.catbox.moe/q0a9ek.jpg",
+        "audioFile": "https://files.catbox.moe/ybj5g2.opus", 
+        "duration": 180,
+        "timeSync": [
+            { "time": 0, "text": "sunshine.jpeg" },
+            { "time": 3, "text": "sunshine.jpeg\n " },
+            { "time": 13, "text": "sunshine.jpeg\n " },
+            { "time": 23, "text": "sunshine.jpeg\n " },
+            { "time": 22, "text": "sunshine.jpeg\n " },
+            { "time": 28, "text": "sunshine.jpeg\n " },
+            { "time": 33, "text": "sunshine.jpeg\n " },
+            { "time": 40, "text": "sunshine.jpeg\n " },
+            { "time": 45, "text": "sunshine.jpeg\n " },
+            { "time": 50, "text": "sunshine.jpeg\n " },
+            { "time": 55, "text": "sunshine.jpeg\n " },
+            { "time": 62, "text": "sunshine.jpeg\n " },
+            { "time": 70, "text": "sunshine.jpeg\n " }
+        ]
+    }
+}
