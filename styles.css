@@ -382,7 +382,7 @@ body {
 }
 
 .welcome-content {
-    background-color: gray;
+    background-color: #121212;
     border-radius: 20px;
     padding: 40px;
     text-align: center;
@@ -578,4 +578,4 @@ body {
     .lyrics-line {
         font-size: 12px;
     }
-    }
+        }
