@@ -16,6 +16,11 @@
             "icon": "fab fa-telegram"
         },
         {
+            "title": "Grup Whatsapp",
+            "url": "https://chat.whatsapp.com/CSdvKIrQAKh3YAIEI3aipl",
+            "icon": "fa-solid fa-user-group"
+        },
+        {
             "title": "Donate",
             "url": "https://donasi.shinestore.my.id",
             "icon": "fas fa-donate"
@@ -25,10 +30,10 @@
             "url": "https://www.sunshop.my.id",
             "icon": "fas fa-globe"
         },
-        {
-            "title": "Grup Whatsapp",
-            "url": "https://chat.whatsapp.com/CSdvKIrQAKh3YAIEI3aipl",
-            "icon": "fa-solid fa-user-group"
+          {
+            "title": "Buy Panel Prodactly",
+            "url": "https://shop.sunsin.biz.id",
+            "icon": "fas fa-globe"
         },
         {
             "title": "TikTok",
