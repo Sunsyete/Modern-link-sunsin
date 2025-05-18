@@ -26,6 +26,11 @@
             "icon": "fas fa-globe"
         },
         {
+            "title": "Grup Whatsapp",
+            "url": "https://chat.whatsapp.com/CSdvKIrQAKh3YAIEI3aipl",
+            "icon": "fa-solid fa-user-group"
+        },
+        {
             "title": "TikTok",
             "url": "https://tiktok.com/@sunshine01442",
             "icon": "fab fa-tiktok"
@@ -34,11 +39,6 @@
             "title": "Pinterest",
             "url": "https://pin.it/4rkboTpNc",
             "icon": "fab fa-pinterest"
-        },
-        {
-            "title": "Grup Whatsapp",
-            "url": "https://chat.whatsapp.com/CSdvKIrQAKh3YAIEI3aipl",
-            "icon": "fa-solid fa-user-group"
         },
         {
             "title": "Pricelist",
