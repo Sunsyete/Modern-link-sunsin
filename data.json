@@ -16,7 +16,12 @@
             "icon": "fab fa-telegram"
         },
         {
-            "title": "Grup Whatsapp",
+            "title": "Grup Bot Whatsapp",
+            "url": "https://chat.whatsapp.com/CSdvKIrQAKh3YAIEI3aipl",
+            "icon": "fa-solid fa-robot"
+        },
+        {
+            "title": "Grup Bot Whatsapp",
             "url": "https://chat.whatsapp.com/CSdvKIrQAKh3YAIEI3aipl",
             "icon": "fa-solid fa-robot"
         },
