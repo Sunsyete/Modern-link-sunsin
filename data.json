@@ -26,9 +26,14 @@
             "icon": "fa-solid fa-robot"
         },
         {
-            "title": "Grup Telegram",
+            "title": "Ch Telegram",
             "url": "https://t.me/TestiSunShine1",
             "icon": "fa fa-plane"
+        },
+        {
+            "title": "Ch Whatsapp",
+            "url": "https://whatsapp.com/channel/0029Vb26qGyGzzKSlSkOV23Y",
+            "icon": "fa fa-wifi"
         },
         {
             "title": "Donate",
