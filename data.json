@@ -36,12 +36,12 @@
             "icon": "fa fa-wifi"
         },
         {
-            "title": "Donate",
-            "url": "https://donasi.shinestore.my.id",
-            "icon": "fas fa-donate"
+            "title": "Pricelist",
+            "url": "https://price.sunsin.biz.id",
+            "icon": "fa-solid fa-shop"
         },
         {
-            "title": "Website",
+            "title": "Testi SunShop",
             "url": "https://www.sunshop.my.id",
             "icon": "fas fa-globe"
         },
@@ -61,9 +61,9 @@
             "icon": "fab fa-pinterest"
         },
         {
-            "title": "Pricelist",
-            "url": "https://price.sunsin.biz.id",
-            "icon": "fa-solid fa-shop"
+            "title": "Donate",
+            "url": "https://donasi.shinestore.my.id",
+            "icon": "fas fa-donate"
         }
     ],
     "music": {
